@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviral-p&show_icons=true&locale=en" alt="aviral-p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviral-p&" alt="aviral-p" /></p>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+
