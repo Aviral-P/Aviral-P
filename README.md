@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aviral Prakash</h1>
 <h3 align="center">🚀 AI Engineer | Data Science Enthusiast | Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -82,30 +78,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -128,8 +100,6 @@
 
 - Master Data Structures & Algorithms
 - Build Production-Ready AI Systems
-- Contribute to Open Source Projects
-- Learn MLOps & AI Deployment
 - Strengthen System Design Knowledge
 
 ---
